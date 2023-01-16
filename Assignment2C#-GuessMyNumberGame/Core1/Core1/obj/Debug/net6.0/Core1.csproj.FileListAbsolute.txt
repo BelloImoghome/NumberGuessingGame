@@ -1,0 +1,15 @@
+C:\Users\Imoghome Blessings\Desktop\j prog\Assignment2C#-GuessMyNumberGame\Core1\Core1\bin\Debug\net6.0\Core1.exe
+C:\Users\Imoghome Blessings\Desktop\j prog\Assignment2C#-GuessMyNumberGame\Core1\Core1\bin\Debug\net6.0\Core1.deps.json
+C:\Users\Imoghome Blessings\Desktop\j prog\Assignment2C#-GuessMyNumberGame\Core1\Core1\bin\Debug\net6.0\Core1.runtimeconfig.json
+C:\Users\Imoghome Blessings\Desktop\j prog\Assignment2C#-GuessMyNumberGame\Core1\Core1\bin\Debug\net6.0\Core1.dll
+C:\Users\Imoghome Blessings\Desktop\j prog\Assignment2C#-GuessMyNumberGame\Core1\Core1\bin\Debug\net6.0\ref\Core1.dll
+C:\Users\Imoghome Blessings\Desktop\j prog\Assignment2C#-GuessMyNumberGame\Core1\Core1\bin\Debug\net6.0\Core1.pdb
+C:\Users\Imoghome Blessings\Desktop\j prog\Assignment2C#-GuessMyNumberGame\Core1\Core1\obj\Debug\net6.0\Core1.csproj.AssemblyReference.cache
+C:\Users\Imoghome Blessings\Desktop\j prog\Assignment2C#-GuessMyNumberGame\Core1\Core1\obj\Debug\net6.0\Core1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imoghome Blessings\Desktop\j prog\Assignment2C#-GuessMyNumberGame\Core1\Core1\obj\Debug\net6.0\Core1.AssemblyInfoInputs.cache
+C:\Users\Imoghome Blessings\Desktop\j prog\Assignment2C#-GuessMyNumberGame\Core1\Core1\obj\Debug\net6.0\Core1.AssemblyInfo.cs
+C:\Users\Imoghome Blessings\Desktop\j prog\Assignment2C#-GuessMyNumberGame\Core1\Core1\obj\Debug\net6.0\Core1.csproj.CoreCompileInputs.cache
+C:\Users\Imoghome Blessings\Desktop\j prog\Assignment2C#-GuessMyNumberGame\Core1\Core1\obj\Debug\net6.0\Core1.dll
+C:\Users\Imoghome Blessings\Desktop\j prog\Assignment2C#-GuessMyNumberGame\Core1\Core1\obj\Debug\net6.0\ref\Core1.dll
+C:\Users\Imoghome Blessings\Desktop\j prog\Assignment2C#-GuessMyNumberGame\Core1\Core1\obj\Debug\net6.0\Core1.pdb
+C:\Users\Imoghome Blessings\Desktop\j prog\Assignment2C#-GuessMyNumberGame\Core1\Core1\obj\Debug\net6.0\Core1.genruntimeconfig.cache
